@@ -1,0 +1,7 @@
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\obj\Debug\TAREFA_DIA26.csprojResolveAssemblyReference.cache
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\obj\Debug\TAREFA_DIA26.MainForm.resources
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\obj\Debug\TAREFA_DIA26.csproj.GenerateResource.Cache
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\bin\Debug\TAREFA_DIA26.exe
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\bin\Debug\TAREFA_DIA26.pdb
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\obj\Debug\TAREFA_DIA26.exe
+C:\Users\LUANA\Documents\SharpDevelop Projects\TAREFA_DIA26\TAREFA_DIA26\obj\Debug\TAREFA_DIA26.pdb
